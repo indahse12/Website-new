@@ -9,7 +9,7 @@ a{
 }
 .medsos {
     padding:5px 0;
-    background-color:rgb(62, 144, 165);
+    background-color:rgb(13, 81, 160);
 }
 .medsos ul li {
     display: inline-block;
@@ -29,7 +29,7 @@ a{
 header h1 {
     float: left;
     padding: 15px 0;
-    color: rgb(62, 144, 165);
+    color: rgb(13, 81, 160);
 }
 header ul {
     float:right;
@@ -42,11 +42,11 @@ header ul li a{
     display: inline-block;
 }
 header ul li a:hover {
-    background-color: rgb(62, 144, 165);
+    background-color: rgb(13, 81, 160);
     color: #fff;
 }
 .active {
-    background-color: rgb(62, 144, 165);
+    background-color: rgb(13, 81, 160);
     color: #fff;
 }
 .gambar {
@@ -66,7 +66,7 @@ header ul li a:hover {
     left:0;
     right:0;
     bottom:0;
-    background-color: rgb(151, 223, 241, .4);
+    background-color: rgb(125, 184, 252, .4);
 }
 .gambar h2 {
     color: #fff;
@@ -80,7 +80,7 @@ section {
 section h3 {
     text-align: center;
     padding: 20px 0;
-    color: rgb(62, 144, 165);
+    color: rgb(13, 81, 160);
     margin-bottom: 20px;
 }
 .about,
@@ -102,7 +102,7 @@ section h3 {
 
 }
 .box {
-    color: rgb(62, 144, 165);
+    color: rgb(13, 81, 160);
 }
 .box:after {
     content: '';
@@ -154,13 +154,13 @@ footer {
     border: 100px;
     border: 3px solid #fff;
     border-radius: 50%;
-    border-top-color: rgb(62, 144, 165);
-    border-right-color: rgb(62, 144, 165);
-    border-bottom-color: rgb(62, 144, 165);
+    border-top-color: rgb(13, 81, 160);
+    border-right-color: rgb(13, 81, 160);
+    border-bottom-color: rgb(13, 81, 160);
     animation: puterin .5s linear infinite;
 }
 .label {
-    background-color: rgb(62, 144, 165);
+    background-color: rgb(13, 81, 160);
     color: #fff;
 }
 @keyframes puterin {
