@@ -97,8 +97,8 @@ section h3 {
 .about p ol li {
     color:#666;
     word-spacing: 1px;
-    line-height: 10px;
-    text-align:center;
+    line-height: 20px;
+    text-align:justify;
     margin-bottom: 20px;
 }
 .service {
