@@ -94,10 +94,10 @@ section h3 {
     text-align:justify;
     margin-bottom: 20px;
 }
-.about ol li {
+.about p ol li {
     color:#666;
     word-spacing: 2px;
-    line-height: 25px;
+    line-height: 20px;
     text-align:justify;
     margin-bottom: 20px;
 }
