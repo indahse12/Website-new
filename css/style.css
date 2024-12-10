@@ -81,7 +81,7 @@ section h3 {
     text-align: center;
     padding: 20px 0;
     color: rgb(13, 81, 160);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .about,
 .service {
@@ -92,7 +92,7 @@ section h3 {
     word-spacing: 2px;
     line-height: 25px;
     text-align:justify;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .service {
     background-color: #f9f9f9;
