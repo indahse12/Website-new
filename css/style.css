@@ -94,9 +94,9 @@ section h3 {
     text-align:justify;
     margin-bottom: 20px;
 }
-.about ol li {
+.ol li {
     color:#666;
-    word-spacing: 1px;
+    word-spacing: 2px;
     line-height: 20px;
     text-align:justify;
     margin-bottom: 20px;
